@@ -1,3 +1,4 @@
 File modified
 File modified for GitInPracticeReduxPushTest
 Another modification for git fetch command test
+File modified to be included in the new branch and, after that, to be merged into the main branch.
